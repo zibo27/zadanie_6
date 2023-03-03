@@ -7,7 +7,7 @@ Welcome on my page. to do list is available here:
 [ToDoList](https://zibo27.github.io/ListaZadan/)
 
 ## How it is works ?: 
-![lista zadań](https://github.com/zibo27/ListaZadan/blob/main/images/lista%20zadan.gif)
+![lista zadań](https://github.com/zibo27/zadanie_6/blob/main/images/lista%20zadan.gif?raw=true)
 
 ## Technologies used in this project
 
